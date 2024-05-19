@@ -75,7 +75,6 @@ Thanks to [@devbobo's](https://gist.github.com/devbobo) original work and assist
     - [6.1.12. Filter Pump Runtime Total](#6112-filter-pump-runtime-total)
     - [6.1.13. Filter Pump Req Minutes](#6113-filter-pump-req-minutes)
     - [6.1.14. Load Timeout](#6114-load-timeout)
-    - [6.1.15. Load Timeout](#6115-load-timeout)
     - [6.1.16. Hour Meter](#6116-hour-meter)
     - [6.1.17. Relay 1](#6117-relay-1)
     - [6.1.18. Relay 2](#6118-relay-2)
@@ -1068,15 +1067,6 @@ Data: Unsure
 
 Line: R2  
 Read Bit: 20  
-Data Type: Integer  
-Data Unit of Measure: Seconds  
-Data: Unsure
-
-#### 6.1.15. Load Timeout
-`,R2,0,243,43,223,6,19,14,36,9,1,2022,320,9999,1,0,106,607,0,147,`33207`,791,819,0,721,0,0,1673,354,854,241,:`
-
-Line: R2  
-Read Bit: 21  
 Data Type: Integer  
 Data Unit of Measure: Seconds  
 Data: Unsure
